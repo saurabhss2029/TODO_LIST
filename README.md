@@ -1,0 +1,1 @@
+A to-do list web app built with JavaScript, HTML, and CSS allows users to add, edit, and delete tasks easily. It features a responsive design, intuitive interface, and task filtering options. Users can prioritize tasks and mark them as completed, making it a simple and efficient task management tool.
